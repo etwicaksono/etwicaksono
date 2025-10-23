@@ -1,28 +1,59 @@
-# Welcome to My GitHub Pages
+# 👋 Hi, I’m **Eko Teguh Wicaksono**
 
-Hi there! I'm a backend developer specializing in **Golang** and **Laravel**. This repository serves as my personal GitHub Pages site where I showcase my projects and share useful resources.
+### 🚀 Back End Developer | Golang Specialist | Microservices & Cloud Enthusiast
 
-## About Me
+I’m a backend engineer with **3+ years of professional experience** building scalable backend services, distributed systems, and enterprise-grade microservices. Passionate about **system architecture, performance optimization, and automation**, I specialize in **Go (Golang)** and modern backend technologies such as **RabbitMQ, Docker, MongoDB, Redis, and gRPC**.
 
-I'm passionate about building efficient and scalable backend systems. Whether it's creating RESTful APIs in Laravel or developing microservices in Golang, I enjoy tackling complex challenges and learning new technologies.
+I thrive in environments that encourage growth, continuous learning, and solving real-world problems through clean code and resilient system design.
 
-## Technologies I Work With
+---
 
-- **Golang:** Building high-performance backend services.
-- **Laravel:** Crafting elegant web applications with PHP.
+## 🌟 **About Me**
 
-## Projects
+- 🔭 Currently working as a Backend Developer at **PT. Elektronik Distribusi Otomatisasi Terkemuka (eDOT)**
+- 🧠 Focused on **microservice architecture, domain-driven design, and backend scalability**
+- ♻️ Exploring **cloud-native development and DevOps**
+- 🎯 Long-term goal: Become a **Principal Backend Engineer & Solution Architect**
+- 💬 Ask me about **Golang, Laravel, system integration, or backend architecture**
 
-Here are a few projects I've worked on:
+---
 
-1. **Project 1:** A brief description of what this project does.
-2. **Project 2:** Another project with a short summary.
-3. **Project 3:** Yet another project description.
+## 🛠 **Tech Stack**
 
-## Contact Me
+| Category         | Technologies |
+|------------------|-------------|
+| **Languages**    | Go (Golang), PHP (Laravel, Lumen), JavaScript, TypeScript |
+| **Frameworks**   | Fiber, Laravel, Sails.js, CodeIgniter, Bootstrap |
+| **Databases**    | MySQL, PostgreSQL, MongoDB, Redis |
+| **Architecture** | Microservices, Message Queue, gRPC, REST API, DDD |
+| **Tools**        | RabbitMQ, Docker, Git, Postman, Swagger |
 
-Feel free to reach out if you want to collaborate or just say hi!
+---
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+## 📌 **Highlighted Experience**
+
+### 🔹 **Backend Developer – PT eDOT**
+- Developed **Golang microservices** for automation workflows
+- Integrated **RabbitMQ & gRPC** for scalable communication
+
+### 🔹 **Fullstack Developer – PT Akur Pratama**
+- Built cross-platform marketplace APIs
+- Designed PostgreSQL schema & implemented Redis caching
+
+### 🔹 **Backend Developer – PT Telkom Indonesia**
+- Built scalable Go microservices for enterprise systems
+
+---
+
+## 📫 **Let’s Connect!**
+
+| Platform   | Link |
+|-----------|------|
+| **LinkedIn** | https://linkedin.com/in/eko-teguh-wicaksono |
+| **Email**   | ekoteguhwicaksono@gmail.com |
+| **GitHub**  | https://github.com/etwicaksono |
+
+---
+
+> _"Code is not just instructions to the machine – it’s a reflection of how you think."_  
+> ✨ Let’s build something impactful together!
