@@ -20,6 +20,10 @@ I like building tools that are practical and useful in everyday scenarios.
   A CLI tool for visualizing directory structures in a clean and readable tree format.
   👉 https://github.com/etwicaksono/gotree
 
+* **GitZip**
+  A simple Go CLI tool (built with spf13/cobra) to collect and zip all changed files between two Git commits — similar to a PowerShell automation script, but cross-platform and portable.
+  👉 https://github.com/etwicaksono/gitzip
+
 ## Tech Stack
 
 * **Languages:** Go, TypeScript, JavaScript, PHP
