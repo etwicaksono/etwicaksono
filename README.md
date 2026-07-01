@@ -1,59 +1,47 @@
-# 👋 Hi, I’m **Eko Teguh Wicaksono**
+# Hi, I'm Eko Teguh Wicaksono 👋
 
-### 🚀 Back End Developer | Golang Specialist | Microservices & Cloud Enthusiast
+Backend Engineer from Indonesia 🇮🇩 with a focus on building scalable systems using **Go (Golang)**.
 
-I’m a backend engineer with **3+ years of professional experience** building scalable backend services, distributed systems, and enterprise-grade microservices. Passionate about **system architecture, performance optimization, and automation**, I specialize in **Go (Golang)** and modern backend technologies such as **RabbitMQ, Docker, MongoDB, Redis, and gRPC**.
+I enjoy working on backend services, designing clean architectures, and solving real-world problems through software. Lately, I’ve been exploring **microservices**, **domain-driven design (DDD)**, and **event-driven systems**, while also experimenting with AI to improve developer workflows.
 
-I thrive in environments that encourage growth, continuous learning, and solving real-world problems through clean code and resilient system design.
+## What I'm Working On
 
----
+I like building tools that are practical and useful in everyday scenarios.
 
-## 🌟 **About Me**
+* **BudgetMate**
+  A personal finance manager inspired by Wallet by BudgetBakers. Built with a focus on simplicity, privacy, and self-hosting.
+  👉 https://budgetmateapp.vercel.app/
 
-- 🔭 Currently working as a Backend Developer at **PT. Elektronik Distribusi Otomatisasi Terkemuka (eDOT)**
-- 🧠 Focused on **microservice architecture, domain-driven design, and backend scalability**
-- ♻️ Exploring **cloud-native development and DevOps**
-- 🎯 Long-term goal: Become a **Principal Backend Engineer & Solution Architect**
-- 💬 Ask me about **Golang, Laravel, system integration, or backend architecture**
+* **Finance Parser**
+  A tool that helps convert receipts, invoices, and bank statements into structured data that can be used in spreadsheets like Google Sheets.
+  👉 https://financeparser.vercel.app/
 
----
+* **GoTree**
+  A CLI tool for visualizing directory structures in a clean and readable tree format.
+  👉 https://github.com/etwicaksono/gotree
 
-## 🛠 **Tech Stack**
+## Tech Stack
 
-| Category         | Technologies |
-|------------------|-------------|
-| **Languages**    | Go (Golang), PHP (Laravel, Lumen), JavaScript, TypeScript |
-| **Frameworks**   | Fiber, Laravel, Sails.js, CodeIgniter, Bootstrap |
-| **Databases**    | MySQL, PostgreSQL, MongoDB, Redis |
-| **Architecture** | Microservices, Message Queue, gRPC, REST API, DDD |
-| **Tools**        | RabbitMQ, Docker, Git, Postman, Swagger |
+* **Languages:** Go, TypeScript, JavaScript, PHP
+* **Backend:** Fiber, gRPC, REST API, RabbitMQ, Redis
+* **Database:** PostgreSQL, MongoDB, MySQL
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Tools:** Docker, Git, GitHub Actions, Postman, Swagger
 
----
+## Currently Exploring
 
-## 📌 **Highlighted Experience**
+* Domain-Driven Design (DDD)
+* Event-Driven Architecture
+* Cloud-Native Development
+* AI & Automation
+* Software Architecture
 
-### 🔹 **Backend Developer – PT eDOT**
-- Developed **Golang microservices** for automation workflows
-- Integrated **RabbitMQ & gRPC** for scalable communication
+## Connect
 
-### 🔹 **Fullstack Developer – PT Akur Pratama**
-- Built cross-platform marketplace APIs
-- Designed PostgreSQL schema & implemented Redis caching
-
-### 🔹 **Backend Developer – PT Telkom Indonesia**
-- Built scalable Go microservices for enterprise systems
-
----
-
-## 📫 **Let’s Connect!**
-
-| Platform   | Link |
-|-----------|------|
-| **LinkedIn** | https://linkedin.com/in/eko-teguh-wicaksono |
-| **Email**   | ekoteguhwicaksono@gmail.com |
-| **GitHub**  | https://github.com/etwicaksono |
+* GitHub: https://github.com/etwicaksono
+* LinkedIn: https://linkedin.com/in/eko-teguh-wicaksono
+* Email: [ekoteguhwicaksono@gmail.com](mailto:ekoteguhwicaksono@gmail.com)
 
 ---
 
-> _"Code is not just instructions to the machine – it’s a reflection of how you think."_  
-> ✨ Let’s build something impactful together!
+> I believe good software is simple, reliable, and built to solve real problems.
